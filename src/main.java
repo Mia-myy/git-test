@@ -6,7 +6,7 @@ public class main {
         System.out.println("hello git4");
         System.out.println("master commit");
         System.out.println("hot-fix test!");
-        System.out.println("hot-fix test!");
+        System.out.println("push test!");
 
     }
 }
